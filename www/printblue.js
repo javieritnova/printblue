@@ -11,3 +11,5 @@ var printblue = {
         ); 
      }
 }
+
+module.exports = printblue;
